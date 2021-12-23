@@ -1,0 +1,19 @@
+
+
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: -webkit-body;
+    box-sizing: border-box;
+}
+
+.mr-100 {
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 70px;
+}
